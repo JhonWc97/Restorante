@@ -549,7 +549,7 @@ textarea {
 }
 
 .info h3,
-p {
+.info p {
   color: var(--blanco);
   text-align: center;
 }
